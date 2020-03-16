@@ -12,6 +12,7 @@ module.exports = {
     ],
     dest: './docs/.vuepress/dist',
     ga: '',
+    base: '/blog-vuepress/',
     evergreen: true,
     themeConfig: {
         nav: [
